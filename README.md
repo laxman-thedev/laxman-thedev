@@ -89,14 +89,6 @@ Reach out via **LinkedIn, Email, or WhatsApp** at bottom — happy to collaborat
 
 ## 📊 GitHub Analytics
 
-### ⚡ Streak Stats
-
-<div align="center">
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=laxman-thedev&theme=aura&hide_border=false)
-
-</div>
-
 ### 📈 GitHub Stats & Languages
 
 <div align="center">
